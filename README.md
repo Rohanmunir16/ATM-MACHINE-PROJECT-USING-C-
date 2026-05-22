@@ -139,6 +139,5 @@ This project is created for educational and learning purposes.
 
 ## Source File
 
-Main implementation file: 
+Main implementation file
 
-I'm here to help!
